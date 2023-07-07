@@ -1,0 +1,159 @@
+Artificial Intelligence (AI)
+ 1. AI Enabled Manned Unmanned Teaming Between Tanks & Drones 1
+ 2. AI Based Intrusion Detection & Target Acquisition System 2
+ 3. Data Mining Tool for Analysis 3
+ 4. AI Assisted Monitoring & Recognition of Targets/Objects Detected by BFSR 
+ 5. AI Based Aircraft Recognition Package 5
+ 6. Detection of Deep Fake & Propaganda Videos/ Images, Including Voice & Facial Manipulations Using AI 
+ 7. AI Based Integrated Surveillance, Detection & Alarm System 7
+ 8. AI Based Automation Framework for Handling Email/Grievances 8
+of Indian Army 
+ 9. AI Based News Aggregator Application Customised for Strategic 9
+& Geopolitical Significance 
+Blockchain
+ 10. Blockchain Enabled Smart Contract Based Ammunition Management 10
+System 
+ 11. Blockchain Based Capital Procurement Process 11
+ 12. Blockchain Based Patch Management System (BPMS) 12
+ 13. Digital Processing of Complaints Using Blockchain Technology 13
+ 14. Blockchain Network Technology in Supply Chain Management 14
+Robotics
+ 15. Development of Robotic Mules for Logistic Loads 15
+ 16. Robotic Gait Trainer with Exoskeleton for Patients with Spinal Cord 16 Injury 
+
+Communication/ 5G/ Quantum
+ 17. Indigenous Secure Routers 17
+ 18. Chip Based Integrated Encryption Module with Configurable Encryption 18
+Suites 
+ 19. End to End Encryption Solution 19
+ 20. Indigenous Operating System for Mobile Phones 20
+ 21. Quantum Assured Positioning, Navigation & Time (PNT) to Overcome 21
+Vulnerabilities 
+ 22. Wireless Bluetooth Headgears for Tank Crew Having a Dual Communication 22
+Mode Compatible with Aerial Platforms 
+Cyber
+ 23. Forensic Analysis of Raw Drone Data 23-24
+ 24. Computational Algorithmic Framework for Artificial Intelligence (AI)/ 25
+Machine Learning (ML) Assisted Cryptanalysis 
+ 25. Website Defacement Detection & Mobile Application Scanner 26
+ 26. Electronics Accessories Scanner 27
+ 27. Graphic User Interface Based Social Media Monitor 28
+Intelligence, Surveillance & Reconnaissance
+ 28. Surveillance, Tactical Reconnaissance & Offensive on Move (STROM) 29
+Manned-Unmanned Teaming 
+ 29. Automation of Data Management for Intelligence, Surveillance & 30
+Reconnaissance 
+ 30. Automatic Creation & Transmission of Surveillance Information from 31
+Medium Range Battle Field Surveillance Radar
+ 31. Video Search Including the Reverse Search Mechanism for Knowing the 32 
+Originator/ Source of Fake & Propaganda Videos on Social Media/ Internet
+ 32. Geographical Information System Based Data Management System 33
+ 33. Mandarin Translator 34
+ 34. Automatic Extraction of Topographical Features from Satellite & Drone 35
+Images 
+Individual Capability Enhancement/ Survivability
+ 35. Special Clothing & Mountaineering Equipment – Avalanche Air Bag 36
+
+ 36. Special Clothing & Mountaineering Equipment – Avalanche Victim 37
+Detector (AVD) 
+ 37. Special Clothing & Mountaineering Equipment – Boot Crampons 38
+ 38. Special Clothing & Mountaineering Equipment – Boot Multipurpose 39
+ 39. Special Clothing & Mountaineering Equipment – Ice Axe & Shovel 40-41
+ 40. Special Clothing & Mountaineering Equipment – Jacket Down Trouser 42
+Down (JDTD) 
+ 41. Special Clothing & Mountaineering Equipment – Karabiner ‘P’ Type 43
+ 42. Special Clothing & Mountaineering Equipment – Modular Gloves 44
+ 43. Special Clothing & Mountaineering Equipment – Rock Piton 45
+ 44. Special Clothing & Mountaineering Equipment – Tugger Shoes 46
+ 45. Field Bio-Agent Detector 47
+ 46. Alternatives to Halon Gas Used in Fire Fighting System in the Armoured 48
+Fighting Vehicles 
+ 47. Hostile Fire Detection & Positioning System 49
+ 48. Acclimatisation for High Altitude Deployment 50
+ 49. Avalanche Rescue Detector & Avalanche Rescue Reflector 51
+ 50. Active Adaptive Stealth for Armoured Fighting Vehicles 52
+ 51. Light Weight Armour for Armoured Fighting Vehicles 53
+Unmanned Aerial Systems
+ 52. Heavy Payload Logistic Drones for High Altitude Areas 54
+ 53. Quadcopter Based Gamma Spectroscopy System 55
+Counter Unmanned Aerial Systems
+ 54. Integrated Passive Drone Detection System 56
+ 55. Jet Based High Speed Kinetic Kill Drones 57
+ 56. Decoders & Classifiers for Radio Frequency Spectrum Including 58
+Unmanned Aerial Systems 
+Armament & Ammunition
+ 57. 120mm/ 105mm Mortar for Carrier Motor Tracked 59
+ 58. 4th/ 5th Generation Anti-Tank Guided Missile 60
+
+ 59. Development of Fragmentation Rounds for Secondary Armament 61
+ 60. Cleaning of Bore of Barrel of 105/37 mm LFG/ 130 mm M-46/155mm 62
+Guns 
+ 61. Light Weight 81 mm Infantry Mortar 63
+ 62. Life Extension Methodology for 84mm Rocket Launcher Mk-III 64 
+ 63. Electromagnetic Railgun for Long Range Weapon 65
+Fire Control System
+ 64. Fire Control System & Automatic Target Tracker for Anti - Aircraft 66
+Machine Gun of Armoured Fighting Vehicles 
+ 65. Semi-Automatic Fire Control Systems for 155mm/ 45 Calibre 67
+SHARANG Gun System 
+ 66. Fire Control System for Sniper Rifle 68-69
+Sighting System
+ 67. Light Weight Passive Targeting & Fire Support System 70
+ 68. Sight for 30mm Cannon for Aerial Targets 71
+ 69. Night Enablement of ZU 23mm 2B Gun 72
+ 70. Uncooled Thermal Imaging Sensor 73
+ 71. Fusion Technology for Night Imaging – Image Intensification & Thermal 74
+Imaging 
+Situational Awareness
+ 72. Ground Based Foliage Penetration Radar 75
+ 73. Integrated Digital Cockpit 76
+ 74. Situational Awareness System for Mechanised Formations 77
+ 75. Secure Vehicle Convoy Tracking & Information System 78
+ 76. Advance Driver Assistance System for Armoured Fighting Vehicles 79-80
+Track Expedients/ Mobility
+ 77. Puncture Proof Tyre System 81
+ 78. Rubberised Tracks for Armoured Fighting Vehicles (AFVs) 82
+ 79. Chemical Soil Stabilisation 83
+ 80. Explosive Based Minefield Breaching Technology for Creation of Safe 84
+Lane Through Minefield 
+ 81. Rapid Unloading System for Armoured Vehicles 85
+ 82. Fuel Quantity Measuring & Quality Control Device 86
+ 83. Outboard Motor (OBM) 30-50HP 87
+ 84. Gasoline Engine Based Saw Chain 88
+ 85. Portable Engine Driven Rock Drill 89
+ 86. Control of Water Flow from Watershed 90
+Material Handling
+ 87. Cargo Pallets for C-17 Aircrafts & Chinook Helicopters 91
+ 88. Modular Portable Material Conveyor & Stacking System 92
+ 89. Automated Warehousing 93
+Habitat
+ 90. Anti-Freeze Solutions for Water at High Altitude Areas 94
+ 91. Fumeless Kerosene Oil Heating Devices 95
+ 92. Temperature Controlled Garage for Armoured Vehicles 96
+Power Solutions
+ 93. Replacement of 24V Secondary Batteries of Infantry Combat Vehicles 97
+(ICVs) Employed in High Altitude Areas (HAA)
+ 94. Alternate Portable Power Generation System 98
+Training
+ 95. AI Based Augumented Reality (AR)/ Virtual Reality (VR) Tactical & 99
+Technical Training for Mechanised Forces 
+ 96. Laser Based Tank Firing & Combat Simulation System 100
+ 97. Control Station for Maneuver Range 101-102
+ 98. Mechanised Warfare Metaverse for Tactical Training 103
+ 99. Tactical & Technical Training Using Augmented Reality (AR)/ Virtual 104
+Reality (VR) & Haptics 
+ 100. Augmented Reality (AR)/ Virtual Reality (VR) Based BMP-II Technical 105
+Training Simulator 
+ 101. Virtual Reality Based Forward Observation Officer (FOO) Training System 106
+Indigenisation
+ 102. Electronic Equipment of Smerch Weapon System 107
+ 103. Replacement of Faulty Artillery Thermal Imaging Module Long Range 108
+ 104. Night Sights for Schilka 109
+ 105. Indigenisation of Assemblies of Tank T-90 Side Gear Boxes with 110
+Final Drive & Running Gear 
+ 106. Laying & Loading System of 155mm FH 77 BO2 Bofors Gun System 111
+ 107. Superstructure Assemblies of 130mm Field Gun M46 112
+ 108. Barrels & Receiver Assemblies of ZU 23mm Twin Gun 113
+Miscellaneous
+ 109. Two Way Rotary Conveyor (RC) Motor For Tanks (T-90/ T-72) 114
+ 110. Alignment Guide for Bone Resection in Knee Replacement Surgery 115-116
