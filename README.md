@@ -17,7 +17,6 @@ Key Features:
    - Interactive charts and visualizations help users identify trends and make informed decisions regarding their mental health.
 
 4. Journaling:
-   - Embrace the therapeutic power of journaling with a beautifully designed digital journal.
    - Capture your thoughts, reflections, and moments of gratitude through an elegant and intuitive interface.
 
 5. Breathing Exercises:
